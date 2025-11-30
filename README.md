@@ -16,7 +16,7 @@ I'm a data professional with experience designing data pipelines, building analy
 
 ---
 
-## 📂 Explore My GitHub Projects
+## 📂 Explore My Recent Projects
 
 This GitHub features **personal projects and demos** using public datasets, designed to highlight skills from my professional work:
 
