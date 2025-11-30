@@ -1,12 +1,9 @@
 # Hi, I'm Michelle 👋
-
-I'm a data professional with experience designing data pipelines, building analytics models, and creating dashboards that drive decision-making. I enjoy turning raw data into clean, structured systems and actionable insights, both in my professional work and through personal projects.
-
 ---
 
-## 💼 About Me & Professional Experience
+## 💼 About Me
 
-In my day-to-day work, I work across the analytics stack: building data pipelines, designing models, optimizing queries, and delivering dashboards for stakeholders. While I can't share proprietary work here, my professional experience informs the skills and techniques I apply in my personal projects.
+I'm a data professional with experience designing data pipelines, building analytics models, and creating dashboards that drive decision-making. I enjoy turning raw data into clean, structured systems and actionable insights.
 
 ---
 
