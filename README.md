@@ -3,7 +3,7 @@
 
 ## 💼 About Me
 
-I'm a data professional with experience designing data pipelines, building analytics models, and creating dashboards that drive decision-making. I enjoy turning raw data into clean, structured systems and actionable insights.
+I'm a data professional with experience designing data pipelines, building analytics models, and creating dashboards that drive decision-making. Adept at uncovering business insights, enhancing workflow efficiency, and supporting decision-making through data-driven strategies. I bring strong technical skills and a commitment to continuous learning in new technologies, helping me deliver solutions that are scalable, modern, and reliable.
 
 ---
 
