@@ -20,9 +20,9 @@ I'm a data professional with experience designing data pipelines, building analy
 
 This GitHub features **personal projects and demos** using public datasets, designed to highlight skills from my professional work:
 
-- **[Example1](#)** – Data cleaning, modeling, and dashboards  
-- **[Example2](#)** – Python and SQL analytics project  
-- **[Example3](#)** – Small-scale ETL and pipeline experiment  
+- **[Project 1](#)** – Data cleaning, modeling, and dashboards  
+- **[Project 2](#)** – Python and SQL analytics project  
+- **[Project 3](#)** – Small-scale ETL and pipeline experiment  
 
 These projects showcase my approach to analytics and data engineering in a public-friendly way.
 
