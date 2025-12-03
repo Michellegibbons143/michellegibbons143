@@ -37,7 +37,7 @@ Check out my recent projects demonstrating **SQL, Python, ETL pipelines, and int
 
 ## 📫 Connect with Me
 
-- [Portfolio](https://michellegibbons143.github.io/)
 - [Email](mailto:michellegibbons143@gmail.com)
+- [Portfolio](https://michellegibbons143.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/michellegibbons143/)
 
