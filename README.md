@@ -19,13 +19,19 @@ I'm a data professional with experience designing data pipelines, building analy
 
 ## 📂 Explore My Recent Projects
 
-This GitHub features **personal projects and demos** using public datasets, designed to highlight skills from my professional work:
+Check out my recent projects demonstrating **SQL, Python, ETL pipelines, and interactive dashboards**, highlighting practical, results-driven work.
 
-- **[Project 1](#)** – Data cleaning, modeling, and dashboards  
-- **[Project 2](#)** – Python and SQL analytics project  
-- **[Project 3](#)** – Small-scale ETL and pipeline experiment  
-
-These projects showcase my approach to analytics and data engineering in a public-friendly way.
+- 📌 **[Customer Behavior Analysis](#)**  
+  **Tools/Tech:** Python, SQL, Pandas, Matplotlib  
+  **Description:** Segmented customers and performed cohort analysis to track churn trends. Built visualizations highlighting retention drivers and product usage patterns.
+  
+- 📌 **[ETL Pipeline Case Study](#)**  
+  **Tools/Tech:** dbt, Snowflake, SQL  
+  **Description:** Developed a reusable ETL workflow, focusing on schema design and data quality. Simulated large datasets to demonstrate scalability and robustness.
+  
+- 📌 **[KPI Dashboard Project](#)**  
+  **Tools/Tech:** Power BI, Tableau, DAX  
+  **Description:** Created executive dashboards standardizing metrics across teams. Implemented interactive visuals and calculations to support data-driven decision-making.
 
 ---
 
