@@ -3,17 +3,22 @@
 
 ## 📊 About Me
 
-I'm a data professional with experience designing data pipelines, building analytics models, and creating dashboards that drive decision-making. Adept at uncovering business insights, enhancing workflow efficiency, and supporting decision-making through data-driven strategies. I bring strong technical skills and a commitment to continuous learning in new technologies, helping me deliver solutions that are scalable, modern, and reliable.
+I'm a Data Analytics Engineer focused on designing scalable data solutions that power analytics across an organization. My work centers on building ELT pipelines, developing reusable data models, and creating reliable metric layers that serve as the foundation for reporting and business intelligence.
+
+I primarily work with Snowflake, SQL, Python, Sigma, and Power BI to build modern data infrastructure that delivers accurate, trusted data at scale. While my focus is analytics engineering, I also develop executive dashboards when complex business questions require clear, high-impact visualizations.
+
+I'm passionate about clean architecture, automation, and building data systems that are maintainable, scalable, and easy for others to use.
 
 ---
 
 ## 🚀 Skills & Focus
 
-- 🔹 ETL/ELT pipelines, data modeling, reusable workflows  
-- 🔹 Advanced SQL, Python, R for analysis and modeling  
-- 🔹 Dashboard development, KPI tracking, Tableau, Power BI (DAX)  
-- 🔹 Data quality, metric standardization, analytics best practices  
-- 🔹 Cloud warehousing with Snowflake, scalable infrastructure
+- 🔹 Analytics engineering, ETL/ELT pipelines, and data modeling
+- 🔹 Advanced SQL, Snowflake, and Python
+- 🔹 Sigma, Power BI (DAX), and executive dashboard development
+- 🔹 Data warehousing, reusable data models, and metric standardization
+- 🔹 Data quality, testing, and analytics engineering best practices
+- 🔹 Cloud-based data infrastructure and scalable reporting solutions
   
 ---
 
